@@ -16,4 +16,9 @@
         left: 100px;
         width: 150px;
     }
+    
+    .initialize_confirm_box{
+        left: 80px;
+        width: 200px;
+    }
 }
