@@ -11,4 +11,9 @@
     header .container{
         width: 400px;
     }
+    
+    .erase_box{
+        left: 100px;
+        width: 150px;
+    }
 }
