@@ -1,0 +1,14 @@
+@media(max-width:420px){
+    .main_board_box, .top_board_box{
+        width: 400px;
+        /*margin: 0 auto;*/
+    }
+
+    #input_box_text {
+        font-size: 7px;
+    }
+
+    header .container{
+        width: 400px;
+    }
+}
